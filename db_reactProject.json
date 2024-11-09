@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "SS Cricket Bat",
+      "category": "EnglishWillow",
+      "description": "A1 grade imported Bats",
+      "unitPrice": 28000,
+      "productImage": "https://www.sstoncricket.com/wp-content/uploads/2023/04/IMG_0402-copy-2-scaled.jpg"
+    },
+    {
+      "id": 2,
+      "productName": "SF Cricket Bat",
+      "category": "KashmirWillow",
+      "description": "A2 grade imported High quality Bats from INDIA",
+      "unitPrice": 8000,
+      "productImage": "https://5.imimg.com/data5/QS/XT/LF/SELLER-9492231/sports-shoes.jpg"
+    },
+    {
+      "id": 3,
+      "productName": "BAS Cricket Bat",
+      "category": "EnglishWillow",
+      "description": "A1 grade imported Bats from UK",
+      "unitPrice": 22000,
+      "productImage": "https://sportsgoodsmarket.com/wp-content/uploads/2020/11/Bas-Topper-main.jpg"
+    },
+    {
+      "id": 4,
+      "productName": "RHB Cricket Gloves SF",
+      "category": "Gloves",
+      "description": "Good test Gloves for a Right Hand Batsmen...",
+      "unitPrice": 2800,
+      "productImage": "https://m.media-amazon.com/images/I/51xB8rV43vL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 5,
+      "productName": "LHB Gloves GM",
+      "category": "Gloves",
+      "description": "Good test Gloves for a Left Hand Batsmen...",
+      "unitPrice": 2100,
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMg3g_Pvy4x-DdwHqvRV-Ex4Ol6LnzOW158AibJqryA&s"
+    },
+    {
+      "id": 6,
+      "productName": "Batting Pads SG",
+      "category": "Pads",
+      "description": "Test Match Batting pads for right hand batsmen...",
+      "unitPrice": 28000,
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8y656CDRGwRM5xc5-DmK631AsnTlLnfdtaq8bCpEPQ&s"
+    },
+    {
+      "id": 7,
+      "productName": "Helmet Shrey",
+      "category": "Helmets",
+      "description": "Made with Aluminium with best comfort for good cricket experience",
+      "unitPrice": 16000,
+      "productImage": "https://5.imimg.com/data5/SELLER/Default/2022/12/OJ/JT/PV/163043379/shrey-cricket-helmet.jpg"
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "orderDate": "2024-06-05T05:26:53.731Z",
+      "UserName": "admin",
+      "totalAmount": 0,
+      "id": 1
+    }
+  ],
+  "users": []
+}
